@@ -1,2 +1,2 @@
 # instagram-interface
-Interface Clone do Instagram desenvoolvida com FlexBox do css.
+Interface Clone do Instagram desenvolvida com FlexBox do css.
